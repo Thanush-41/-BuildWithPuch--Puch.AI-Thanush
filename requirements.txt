@@ -1,0 +1,7 @@
+fastmcp
+markdownify
+readabilipy
+pydantic
+httpx
+PyPDF2
+pathlib
