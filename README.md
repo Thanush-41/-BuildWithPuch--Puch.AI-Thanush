@@ -2,6 +2,8 @@
 
 ## 🚀 Server Status
 ✅ **READY FOR DEPLOYMENT**
+<img width="1480" height="1016" alt="image" src="https://github.com/user-attachments/assets/c1b24dcd-b3ed-4c4c-a2f8-312f1282d426" />
+
 
 This MCP server has been successfully implemented and tested with all required functionality for the **Puch AI hiring process**.
 
@@ -47,3 +49,4 @@ The server demonstrates:
 - Fetches web content from URLs  
 - Converts HTML to markdown  
 - Supports pagination for large content  
+
